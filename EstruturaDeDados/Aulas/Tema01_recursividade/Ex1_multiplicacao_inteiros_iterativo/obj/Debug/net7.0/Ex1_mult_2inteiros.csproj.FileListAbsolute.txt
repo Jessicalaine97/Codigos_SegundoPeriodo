@@ -1,0 +1,15 @@
+D:\ED\Exercicios\Ex1_mult_2inteiros\bin\Debug\net7.0\Ex1_mult_2inteiros.exe
+D:\ED\Exercicios\Ex1_mult_2inteiros\bin\Debug\net7.0\Ex1_mult_2inteiros.deps.json
+D:\ED\Exercicios\Ex1_mult_2inteiros\bin\Debug\net7.0\Ex1_mult_2inteiros.runtimeconfig.json
+D:\ED\Exercicios\Ex1_mult_2inteiros\bin\Debug\net7.0\Ex1_mult_2inteiros.dll
+D:\ED\Exercicios\Ex1_mult_2inteiros\bin\Debug\net7.0\Ex1_mult_2inteiros.pdb
+D:\ED\Exercicios\Ex1_mult_2inteiros\obj\Debug\net7.0\Ex1_mult_2inteiros.csproj.AssemblyReference.cache
+D:\ED\Exercicios\Ex1_mult_2inteiros\obj\Debug\net7.0\Ex1_mult_2inteiros.GeneratedMSBuildEditorConfig.editorconfig
+D:\ED\Exercicios\Ex1_mult_2inteiros\obj\Debug\net7.0\Ex1_mult_2inteiros.AssemblyInfoInputs.cache
+D:\ED\Exercicios\Ex1_mult_2inteiros\obj\Debug\net7.0\Ex1_mult_2inteiros.AssemblyInfo.cs
+D:\ED\Exercicios\Ex1_mult_2inteiros\obj\Debug\net7.0\Ex1_mult_2inteiros.csproj.CoreCompileInputs.cache
+D:\ED\Exercicios\Ex1_mult_2inteiros\obj\Debug\net7.0\Ex1_mult_2inteiros.dll
+D:\ED\Exercicios\Ex1_mult_2inteiros\obj\Debug\net7.0\refint\Ex1_mult_2inteiros.dll
+D:\ED\Exercicios\Ex1_mult_2inteiros\obj\Debug\net7.0\Ex1_mult_2inteiros.pdb
+D:\ED\Exercicios\Ex1_mult_2inteiros\obj\Debug\net7.0\Ex1_mult_2inteiros.genruntimeconfig.cache
+D:\ED\Exercicios\Ex1_mult_2inteiros\obj\Debug\net7.0\ref\Ex1_mult_2inteiros.dll

@@ -1,0 +1,15 @@
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/obj/Debug/net7.0/ListasEncadeadas.csproj.AssemblyReference.cache
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/obj/Debug/net7.0/ListasEncadeadas.GeneratedMSBuildEditorConfig.editorconfig
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/obj/Debug/net7.0/ListasEncadeadas.AssemblyInfoInputs.cache
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/obj/Debug/net7.0/ListasEncadeadas.AssemblyInfo.cs
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/obj/Debug/net7.0/ListasEncadeadas.csproj.CoreCompileInputs.cache
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/bin/Debug/net7.0/ListasEncadeadas
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/bin/Debug/net7.0/ListasEncadeadas.deps.json
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/bin/Debug/net7.0/ListasEncadeadas.runtimeconfig.json
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/bin/Debug/net7.0/ListasEncadeadas.dll
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/bin/Debug/net7.0/ListasEncadeadas.pdb
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/obj/Debug/net7.0/ListasEncadeadas.dll
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/obj/Debug/net7.0/refint/ListasEncadeadas.dll
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/obj/Debug/net7.0/ListasEncadeadas.pdb
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/obj/Debug/net7.0/ListasEncadeadas.genruntimeconfig.cache
+/home/professor/Documentos/Camillo/ED/ListasEncadeadas/obj/Debug/net7.0/ref/ListasEncadeadas.dll

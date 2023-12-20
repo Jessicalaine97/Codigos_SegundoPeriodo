@@ -1,0 +1,15 @@
+F:\ED\Simulado\Q1\obj\Debug\net7.0\PadraoProjeto.csproj.AssemblyReference.cache
+F:\ED\Simulado\Q1\obj\Debug\net7.0\PadraoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\ED\Simulado\Q1\obj\Debug\net7.0\PadraoProjeto.AssemblyInfoInputs.cache
+F:\ED\Simulado\Q1\obj\Debug\net7.0\PadraoProjeto.AssemblyInfo.cs
+F:\ED\Simulado\Q1\obj\Debug\net7.0\PadraoProjeto.csproj.CoreCompileInputs.cache
+F:\ED\Simulado\Q1\bin\Debug\net7.0\PadraoProjeto.exe
+F:\ED\Simulado\Q1\bin\Debug\net7.0\PadraoProjeto.deps.json
+F:\ED\Simulado\Q1\bin\Debug\net7.0\PadraoProjeto.runtimeconfig.json
+F:\ED\Simulado\Q1\bin\Debug\net7.0\PadraoProjeto.dll
+F:\ED\Simulado\Q1\bin\Debug\net7.0\PadraoProjeto.pdb
+F:\ED\Simulado\Q1\obj\Debug\net7.0\PadraoProjeto.dll
+F:\ED\Simulado\Q1\obj\Debug\net7.0\refint\PadraoProjeto.dll
+F:\ED\Simulado\Q1\obj\Debug\net7.0\PadraoProjeto.pdb
+F:\ED\Simulado\Q1\obj\Debug\net7.0\PadraoProjeto.genruntimeconfig.cache
+F:\ED\Simulado\Q1\obj\Debug\net7.0\ref\PadraoProjeto.dll

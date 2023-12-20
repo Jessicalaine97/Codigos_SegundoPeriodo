@@ -1,0 +1,81 @@
+class Program
+{
+static void Main(string[] args)
+{
+//Imprime(5);
+
+ImprimeSomaDe1Ate(3);
+}
+
+static void ImprimeSomaDe1Ate(int numero)
+{
+ImprimeSomaDe1Ate(numero, 0);
+}
+
+static void ImprimeSomaDe1Ate(int numero, int soma)
+{
+if (numero <= 0)
+{
+Console.WriteLine($"Soma: {soma}.");
+return;
+}
+
+ImprimeSomaDe1Ate(numero - 1, soma + numero);
+}
+
+static void Imprime(int numero)
+{
+if (numero <= 0)
+return;
+
+Imprime(numero - 1);
+
+Console.WriteLine(numero);
+}
+}
+
+
+ ---------------------
+
+
+
+class Program
+{
+static void Main(string[] args)
+{
+//Imprime(5);
+
+ImprimeSomaDe1Ate(3);
+}
+
+static void ImprimeSomaDe1Ate(int numero)
+{
+ImprimeSomaDe1Ate(numero, 0);
+}
+
+static void ImprimeSomaDe1Ate(int numero, int soma)
+{
+if (numero <= 0)
+{
+Console.WriteLine($"Soma: {soma}.");
+return;
+}
+
+ImprimeSomaDe1Ate(numero - 1, soma + numero);
+}
+
+/*
+static void Imprime(int numero)
+{
+if (numero <= 0)
+return;
+
+Imprime(numero - 1);
+
+Console.WriteLine(numero);
+}
+*/
+}
+�
+
+

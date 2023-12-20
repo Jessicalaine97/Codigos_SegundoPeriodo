@@ -1,0 +1,15 @@
+D:\ED\Aulas\ListaEncadeada\obj\Debug\net7.0\ListaEncadeada.csproj.AssemblyReference.cache
+D:\ED\Aulas\ListaEncadeada\obj\Debug\net7.0\ListaEncadeada.GeneratedMSBuildEditorConfig.editorconfig
+D:\ED\Aulas\ListaEncadeada\obj\Debug\net7.0\ListaEncadeada.AssemblyInfoInputs.cache
+D:\ED\Aulas\ListaEncadeada\obj\Debug\net7.0\ListaEncadeada.AssemblyInfo.cs
+D:\ED\Aulas\ListaEncadeada\obj\Debug\net7.0\ListaEncadeada.csproj.CoreCompileInputs.cache
+D:\ED\Aulas\ListaEncadeada\bin\Debug\net7.0\ListaEncadeada.exe
+D:\ED\Aulas\ListaEncadeada\bin\Debug\net7.0\ListaEncadeada.deps.json
+D:\ED\Aulas\ListaEncadeada\bin\Debug\net7.0\ListaEncadeada.runtimeconfig.json
+D:\ED\Aulas\ListaEncadeada\bin\Debug\net7.0\ListaEncadeada.dll
+D:\ED\Aulas\ListaEncadeada\bin\Debug\net7.0\ListaEncadeada.pdb
+D:\ED\Aulas\ListaEncadeada\obj\Debug\net7.0\ListaEncadeada.dll
+D:\ED\Aulas\ListaEncadeada\obj\Debug\net7.0\refint\ListaEncadeada.dll
+D:\ED\Aulas\ListaEncadeada\obj\Debug\net7.0\ListaEncadeada.pdb
+D:\ED\Aulas\ListaEncadeada\obj\Debug\net7.0\ListaEncadeada.genruntimeconfig.cache
+D:\ED\Aulas\ListaEncadeada\obj\Debug\net7.0\ref\ListaEncadeada.dll

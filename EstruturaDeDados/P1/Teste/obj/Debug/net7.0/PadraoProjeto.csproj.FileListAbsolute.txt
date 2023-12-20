@@ -1,0 +1,15 @@
+D:\ED\Teste\bin\Debug\net7.0\PadraoProjeto.exe
+D:\ED\Teste\bin\Debug\net7.0\PadraoProjeto.deps.json
+D:\ED\Teste\bin\Debug\net7.0\PadraoProjeto.runtimeconfig.json
+D:\ED\Teste\bin\Debug\net7.0\PadraoProjeto.dll
+D:\ED\Teste\bin\Debug\net7.0\PadraoProjeto.pdb
+D:\ED\Teste\obj\Debug\net7.0\PadraoProjeto.csproj.AssemblyReference.cache
+D:\ED\Teste\obj\Debug\net7.0\PadraoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\ED\Teste\obj\Debug\net7.0\PadraoProjeto.AssemblyInfoInputs.cache
+D:\ED\Teste\obj\Debug\net7.0\PadraoProjeto.AssemblyInfo.cs
+D:\ED\Teste\obj\Debug\net7.0\PadraoProjeto.csproj.CoreCompileInputs.cache
+D:\ED\Teste\obj\Debug\net7.0\PadraoProjeto.dll
+D:\ED\Teste\obj\Debug\net7.0\refint\PadraoProjeto.dll
+D:\ED\Teste\obj\Debug\net7.0\PadraoProjeto.pdb
+D:\ED\Teste\obj\Debug\net7.0\PadraoProjeto.genruntimeconfig.cache
+D:\ED\Teste\obj\Debug\net7.0\ref\PadraoProjeto.dll

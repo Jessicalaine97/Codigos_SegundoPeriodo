@@ -1,0 +1,5 @@
+F:\ED\Aulas\RevisaoP1\obj\Debug\net7.0\PadraoProjeto.csproj.AssemblyReference.cache
+F:\ED\Aulas\RevisaoP1\obj\Debug\net7.0\PadraoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\ED\Aulas\RevisaoP1\obj\Debug\net7.0\PadraoProjeto.AssemblyInfoInputs.cache
+F:\ED\Aulas\RevisaoP1\obj\Debug\net7.0\PadraoProjeto.AssemblyInfo.cs
+F:\ED\Aulas\RevisaoP1\obj\Debug\net7.0\PadraoProjeto.csproj.CoreCompileInputs.cache

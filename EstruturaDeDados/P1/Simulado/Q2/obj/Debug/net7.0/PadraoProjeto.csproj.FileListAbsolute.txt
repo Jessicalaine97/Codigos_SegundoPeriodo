@@ -1,0 +1,10 @@
+F:\ED\Simulado\Q2\obj\Debug\net7.0\PadraoProjeto.csproj.AssemblyReference.cache
+F:\ED\Simulado\Q2\obj\Debug\net7.0\PadraoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\ED\Simulado\Q2\obj\Debug\net7.0\PadraoProjeto.AssemblyInfoInputs.cache
+F:\ED\Simulado\Q2\obj\Debug\net7.0\PadraoProjeto.AssemblyInfo.cs
+F:\ED\Simulado\Q2\obj\Debug\net7.0\PadraoProjeto.csproj.CoreCompileInputs.cache
+D:\ED\Simulado\Q2\obj\Debug\net7.0\PadraoProjeto.csproj.AssemblyReference.cache
+D:\ED\Simulado\Q2\obj\Debug\net7.0\PadraoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\ED\Simulado\Q2\obj\Debug\net7.0\PadraoProjeto.AssemblyInfoInputs.cache
+D:\ED\Simulado\Q2\obj\Debug\net7.0\PadraoProjeto.AssemblyInfo.cs
+D:\ED\Simulado\Q2\obj\Debug\net7.0\PadraoProjeto.csproj.CoreCompileInputs.cache
