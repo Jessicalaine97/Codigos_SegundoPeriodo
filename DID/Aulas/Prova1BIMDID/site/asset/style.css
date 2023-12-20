@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+header {
+    padding: 0 0 20px 0;
+}
+
+header h1 {
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(162, 179, 167);
+    color: rgb(72, 90, 78);
+}
+
+nav {
+    margin-bottom: 20px;
+    padding: 20px 0;
+}
+
+nav ul.menu {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul.menu li {
+    display: inline;
+    margin: 0 15px;
+    color: rgb(72, 90, 78);
+}
+
+
+main {
+    width: 80%;
+    margin: 50px auto;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+    color: rgb(72, 90, 78);
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+footer {
+    padding: 20px 0;
+    background-color: rgb(162, 179, 167);
+    align-items: center;
+}
+
+footer p {
+    margin: 0;
+}
