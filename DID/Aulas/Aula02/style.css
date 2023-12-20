@@ -1,0 +1,50 @@
+
+p{
+    color: blue;
+}
+h1{
+    color: yellow;
+    
+}
+#paragrafo1{
+    color: purple;
+}
+#paragrafo2{
+    color: brown;
+}
+.grupo1{
+    font-size: large;
+}
+.titulos{
+    color:pink;
+}
+.texto-verde{
+    color:green
+}
+.font-x-large{
+    font-size: x-large;
+}
+h2.titulos{
+    color:green;
+}
+.text-yellow{
+    color:yellow;
+
+}
+/*Pseudo classes de link:*/
+a.link{
+    color:green;
+}
+a.hover{
+    color:purple;
+}
+a:visited{
+    color:red;
+}
+a:active{
+    color:yellow;
+}
+/*primeiro elemento do tipo p*/
+p:first-of-type{
+    color:red;
+}

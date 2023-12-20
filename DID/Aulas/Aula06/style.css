@@ -1,0 +1,51 @@
+
+.grid{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 2fr 1fr; /*repeat(5, 1fr)*/
+    grid-template-rows: 1fr 1fr 2fr 2fr 1fr;
+    grid-template-areas: 
+    "cabecalho cabecalho"
+    "menu menu"
+    "conteudo lateral"
+    "texto lateral"
+    "rodape rodape";
+    gap: 10px;
+}
+header{
+    grid-area: cabecalho;
+    background-color: blueviolet;
+/*Main:
+<div class="grid">
+        <header>
+            <h1>Titulo 1</h1>
+        </header>
+        <nav>Menu</nav>
+        <section>Bloco 1</section>
+        <article>Texto</article>
+        <aside>Barra lateral</aside>
+        <footer>Rodape</footer>
+    </div>
+*/
+}
+nav{
+    grid-area: menu;
+    background-color: aqua;
+}
+section{
+    grid-area: conteudo;
+    background-color: blue;
+}
+article{
+    grid-area: texto;
+    background-color: rgb(212, 41, 184);
+}
+aside{
+    grid-area: lateral;
+    background-color: rgb(230, 137, 61);
+}
+footer{
+    grid-area: rodape;
+    background-color: rgb(228, 215, 104);
+}

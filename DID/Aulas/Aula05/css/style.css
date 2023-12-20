@@ -1,0 +1,65 @@
+/*alt z*/ 
+@font-face {
+    font-family: 'Roboto';
+    src: url(../assets/fontes/roboto/Roboto/Roboto-Regular.ttf);}
+@font-face {
+    font-family: 'Questrial';
+    src: url(../assets/fontes/Questrial/Questrial-Regular.ttf);
+}
+@font-face {
+    font-family: 'Cormorant_Garamond';
+    src: url(../assets/fontes/Cormorant_Garamond/CormorantGaramond-Regular.ttf);
+}
+h1{ 
+    font-family: 'Roboto';
+    background-color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+}
+/*ou cabecalho h1*/
+h2{
+    font-family: 'Questrial';
+    text-align: center;
+    font-style: italic;
+    font-size: 24px;
+}
+#corpo{
+    font-family: 'Questrial';
+    font-family: 'Cormorant_Garamond';
+    font-size: 20px;
+}
+#corpo h3{
+    font-size: 1.5rem; /*1.5 * tamanho do body*/
+    text-align: center;
+}
+body{
+    background-color: rgb(249, 249, 171);
+    font-size: 16px;
+    text-indent: 20px; /*paragrafo*/
+}
+.destaque{
+    font-style: italic;
+    font-weight: bold;
+}
+*{
+    margin:0;
+    border:0;
+    padding: 0;
+}
+#janela{
+    background-color: red;
+    width: 100vw; /*100% da largura -> responsivo*/
+    height: 50vh;
+}
+.maiusculo{
+    text-transform: capitalize; /*1 letra maiusculo*/
+    tex
+}
+.minusculo{
+    text-transform: lowercase; /*transforma minusculo*/
+}
+.subEscrito{
+    font-size: 0.8rem;
+    vertical-align: sub;
+}

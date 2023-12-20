@@ -1,0 +1,15 @@
+/*tela pequena (1):*/
+/*mobile first*/
+p{
+    color: blue;
+    font-size: 3rem;
+}
+
+/*media query*/
+/*tela grande (2):*/
+@media screen and (min-width: 600px) {
+    p{
+        color: red;
+    }
+    
+}

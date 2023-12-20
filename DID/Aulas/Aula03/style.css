@@ -1,0 +1,23 @@
+.titulo{
+    color:#ffffff;
+    background-color: pink;
+    text-align: center;
+}
+#paragrafo1{
+    color:hsl(197, 37%, 37%);
+}
+/*usa o msm tipo de cor em todo o projeto*/
+#paragrafo2{
+    color:rgb(0, 0, 0);
+}
+/*contraste >7 bom*/
+.fundo{
+    background-color: rgb(199, 162, 117);
+}
+
+#fundo-textura{
+    background-image: url("./Imagens/2.jpg");
+}
+p{
+    background-image: linear-gradient(to left, yellow, green, blue, violet);
+}

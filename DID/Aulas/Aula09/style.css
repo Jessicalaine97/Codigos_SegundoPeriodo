@@ -1,0 +1,28 @@
+.flex-container{
+    background-color: aqua;
+    display:flex;
+    flex-direction: row; 
+    flex-wrap: wrap; /*quebra de linha*/
+    justify-content: flex-start;
+    flex-grow: 80vh;
+}
+
+.flex-container div{
+    background-color: rgb(3, 77, 77);
+    height: 15vh;
+    width: 15vh;
+    margin:2%;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 15vh;
+    text-align: center;
+    color: antiquewhite;
+}
+
+/*Ordenar*/
+#primeiro{
+    order:-1;
+}
+#quinto{
+    order:5;
+}

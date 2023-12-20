@@ -1,0 +1,36 @@
+
+#div-azul{
+    background-color: rgb(117, 165, 199);
+    width: 100px;
+    height: 100px;
+    transition: background-color 2s;
+}
+
+#div-azul:hover{
+    background-color: blueviolet;
+}
+
+#div-verde{
+    background-color: rgb(117, 199, 191);
+    width: 100px;
+    height: 200px;
+    transition: width 1s;
+}
+#div-verde:hover{
+    width: 400px;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../assets/fontes/roboto/Roboto/Roboto-Regular.ttf);}
+@font-face {
+    font-family: 'Questrial';
+    src: url(../assets/fontes/Questrial/Questrial-Regular.ttf);
+}
+h1{
+    font-family: 'Questrial'; /*sem serifa*/ /*'Arial'*/
+}
+p{
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
+

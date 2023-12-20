@@ -1,0 +1,79 @@
+.grid{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.mobile{
+    grid-template-rows: 1fr 1fr 3fr 3fr 2fr 2fr 2fr; /*repeat(2, 1fr) repeat(2, 3fr) repeat(3, 2fr)*/
+    grid-template-areas: 
+    "header"
+    "menu"
+    "hero"
+    "main"
+    "banner"
+    "extra" 
+    "image";
+}
+
+.tablet{
+    grid-template-rows: 1fr 3fr 5fr 2fr 2fr;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-areas:
+    "header header header" 
+    "hero hero hero"
+    "menu main main" 
+    "menu banner banner"
+    "menu extra image";
+}
+
+.desktop{
+    grid-template-rows: 1fr 6fr 2fr 2fr 2fr; 
+    grid-template-columns: 2fr 3fr 2fr;
+    grid-template-areas: 
+    "header menu menu"
+    "hero hero hero"
+    "main main image"
+    "main main extra"
+    "banner banner banner";
+}
+
+.text-white{
+    color:aliceblue;
+}
+
+#header{
+    background-color: darkblue;
+    grid-area: header;
+}
+#hero{
+    background-color: rgb(80, 80, 196);
+    grid-area: hero;
+}
+#main{
+    background-color: darkblue;
+    grid-area: main;
+}
+#menu{
+    background-color: red;
+    grid-area: menu;
+}
+#banner{
+    background-color: yellow;
+    grid-area: banner;
+}
+#extra{
+    background-color: aquamarine;
+    grid-area: extra;
+}
+#image{
+    background-color: rgb(192, 221, 221);
+    grid-area: image;
+}
